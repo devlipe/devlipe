@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [this is my curriculum](https://drive.google.com/file/d/1KVIkuqC8-XzJU5m3xZChzM7r-Ueq9rPW/view?usp=sharing)
 
-- ⚡ Fun fact **waiting for Brasil 6th World Cup or Lewis Hamilton 8th title**
+- ⚡ Fun fact **waiting for Brasil 6th World Cup && Lewis Hamilton 8th title**
 
 ## Connect with me:
 <p align="left">
