@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Stocks Selector](https://github.com/devlipe/stocks-selector)
 
-- 💬 Ask me about **C++, Software Pricing, Software documentation**
+- 💬 Ask me about **C++, GO, Algorithms, Software documentation**
 
 - 📫 How to reach me **felipe.p.fereira@ufv.br**
 
